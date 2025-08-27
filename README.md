@@ -52,6 +52,42 @@ Example:
  ┗ 📜 README.md
 
 ```
+Roadmap Overview
+Phase 1 – Python Foundations (Weeks 1–4)
+
+     Week 1: Variables, Loops, Conditionals, Logic Problems
+
+     Week 2: Functions, Lists, Tuples, Dictionaries, Sets
+
+     Week 3: File I/O, Error Handling, Modules, Comprehensions
+
+    Week 4: OOPs Concepts + Advanced Logic Challenges
+
+Phase 2 – Math & Statistics (Weeks 5–8)
+
+    Descriptive stats, Probability, Hypothesis Testing, Math Recap
+
+Phase 3 – Data Tools (Weeks 9–11)
+
+    Data Cleaning, pandas & NumPy, Visualization (matplotlib & seaborn)
+
+Phase 4 – SQL (Weeks 12–14)
+
+    Basics, Joins, Grouping, Advanced SQL with mini-projects
+
+Phase 5 – Machine Learning (Weeks 15–21)
+
+    Linear & Logistic Regression, Tree Models, SVM, Clustering, Model Eval & Tuning
+
+Phase 6 – Deep Learning (Weeks 22–25)
+
+    ANN, CNN, RNN, and building with Keras
+
+Phase 7 – Specialization & Capstone (Week 26)
+
+    Choose a track, build a project, and polish your portfolio
+
+---
 
 ✅ Completed Milestones
 ✔ Week 1 – Python Basics
