@@ -68,7 +68,7 @@ Number Guessing Game
 
 Simple Calculator
 
-🔗 Source Code: Week-1-Python-Basics
+🔗 Source Code: Week-1-Python-Basics   https://github.com/curiouschaudhary/vineet-data-science-journey/tree/main/Week%201
 
 
 🎯 Next Step
