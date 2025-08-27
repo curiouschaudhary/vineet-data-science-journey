@@ -70,12 +70,13 @@ Simple Calculator
 
 🔗 Source Code: Week-1-Python-Basics   https://github.com/curiouschaudhary/vineet-data-science-journey/tree/main/Week%201
 
+---
 
 🎯 Next Step
 
 Currently moving into Week 2 – Functions & Collections. Stay tuned 🚀
 
-###
+---
 
 💡 Connect With Me
 
