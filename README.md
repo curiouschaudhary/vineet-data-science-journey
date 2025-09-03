@@ -25,7 +25,20 @@ Example:
  ┃ ┣ 📜 30_cube.py
  ┃ ┗ 📜 README.md
  ┣ 📂 Week-2-Functions-Collections
+   ┣ 📜 1_check_even.py
+ ┃ ┣ 📜 2_sum.py
+ ┃ ┣ 📜 3_factorial.py
+ ┃ ┣ 📜 ...
+ ┃ ┣ 📜 30_unique_element.py
+ ┃ ┗ 📜 README.md
  ┣ 📂 Week-3-FileHandling-Errors
+ ┃ ┣ 📜 1_print_content.py
+ ┃ ┣ 📜 2_write_content.py
+ ┃ ┣ 📜 3_zero_division_error.py
+ ┃ ┣ 📜 ...
+ ┃ ┣ 📜 9_readCSVfile.py
+ ┃ ┗ 📜 10_multiple_exceptions.py
+
  ┣ 📂 Week-4-OOPs
  ┣ 📂 Week-5-Statistics-Basics
  ┣ 📂 Week-6-Probability
@@ -119,11 +132,30 @@ Mini Projects:
 
 🔗 Source Code: [Week-2-Functions-Collections](https://github.com/curiouschaudhary/vineet-data-science-journey/tree/main/Week%202)  
 
+
+✔ Week 3 – File Handling & Error Handling
+
+10 Python programs completed 🎉
+
+Topics: File I/O (read/write), Exception Handling (try/except), Modules & imports, List/Dict comprehensions, Generators, CSV file reading, Multiple exceptions handling
+
+Mini Projects / Demos:
+
+File reader & writer utilities (read data.txt, write name.txt)
+
+CSV preview script (sample read of netflix_titles_nov_2019.csv)
+
+Exception handling examples (ZeroDivisionError, FileNotFoundError, ValueError)
+
+Small module import demo (mymodule usage)
+
+🔗 Source Code: Week-3-FileHandling-Errors
+
 ---
 
 🎯 Next Step
 
-“Currently moving into Week 3 – File Handling & Error Handling 🚀”
+“Currently moving into Week 4 – OOPs Concepts + Advanced Logic Challenges 🚀”
 
 ---
 
