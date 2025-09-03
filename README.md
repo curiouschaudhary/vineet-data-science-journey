@@ -117,7 +117,7 @@ Number Guessing Game
 
 Simple Calculator
 
-🔗 Source Code: Week-1-Python-Basics   https://github.com/curiouschaudhary/vineet-data-science-journey/tree/main/Week%201
+🔗 Source Code: Week-1-Python-Basics  [Week-1-Function-Collections](https://github.com/curiouschaudhary/vineet-data-science-journey/tree/main/Week%201)
 
 
 ✔ Week 2 – Functions & Collections  
@@ -149,7 +149,8 @@ Exception handling examples (ZeroDivisionError, FileNotFoundError, ValueError)
 
 Small module import demo (mymodule usage)
 
-🔗 Source Code: Week-3-FileHandling-Errors
+🔗 Source Code: [Week-3-Functions-Collections](https://github.com/curiouschaudhary/vineet-data-science-journey/tree/main/Week%203)  
+
 
 ---
 
